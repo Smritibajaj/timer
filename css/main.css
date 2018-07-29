@@ -1,0 +1,16 @@
+.wrapper{
+
+    height: 100vh;
+    width: 100vw;
+    background-color: rebeccapurple;
+    position: absolute;
+}
+.container{
+    margin: 0 auto;
+    background-color: white;
+    height: 50vh;
+    width: 50vw;
+    overflow: hidden;
+    position: relative;
+    margin-top: 25vh;
+}

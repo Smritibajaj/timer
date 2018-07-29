@@ -1,0 +1,18 @@
+/** 
+* Soma HTML5 CSS Reset. Assumed an HTML5 shiv for IE < 9
+* Builds from http://meyerweb.com/eric/tools/css/reset/
+*/
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,big,cite,code,del,em,font,img,ins,small,strong,sub,sup,tt,b,u,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}
+ol,ul{list-style:none;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+a:focus{outline:1px dotted;}
+a.ir:focus{overflow:hidden;} /* Elements with negative text-indent image replacement won't have wonky outlines */
+del{text-decoration:line-through;}
+table{border-collapse:collapse;border-spacing:0;} /* tables still need 'cellspacing="0"' in the markup */
+strong,b{font-weight:bold;}
+em,i{font-style:italic;}
+sup{vertical-align:super;}
+sub{vertical-align:sub;}
+sup,sub{font-size:.75em;}
